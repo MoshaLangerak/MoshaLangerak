@@ -1,3 +1,3 @@
 - Hi, I’m @MoshaLangerak
-- I study Data Science at the Technical univerisity of Eindhoven & Tilburg University
+- I study Data Science at the Technical univerisity of Eindhoven
 - This page included projects from school and personal passion projects
